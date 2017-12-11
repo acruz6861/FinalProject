@@ -3,6 +3,12 @@
 # Calculate different scenerios for customers
 # including the subtotal, the tax (.7%), and the
 # total after subtotal and tax.
+# Free Run : $75
+# UltraBoost : $150
+# Asics Gel Lyte : $120
+# Vans Old Skool : $60
+# Air Max 1 : $100
+# Roshes : $70
 
 item1 = float(input("Enter price of item1"))
 item2 = float(input("Enter price of item2"))
