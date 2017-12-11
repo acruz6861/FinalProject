@@ -2,9 +2,9 @@
 # Calculate subtotal, tax 7%, and the grand total.
 
 
-Free Run : 17, $75
-UltraBoost : 4, $150
-Asics Gel Lyte : 1, $120
-Vans Old Skool : 11, $60
-Air Max 1 : 7, $100
-Roshes : 25, $70
+Free Run : $75
+UltraBoost : $150
+Asics Gel Lyte : $120
+Vans Old Skool : $60
+Air Max 1 : $100
+Roshes : $70
