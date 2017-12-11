@@ -1,7 +1,5 @@
 
 # List the prices for each shoe style.
-# Christmas/Holiday sale is going on
-# Everything is 30% off
 # Calculate different scenerios for customers
 # including the subtotal, the tax (.7%), and the
 # total after subtotal and tax.
