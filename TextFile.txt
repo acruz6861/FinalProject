@@ -1,0 +1,16 @@
+# Create a dictionary of inventory for a shoe store's stockroom.
+# List the prices for each shoe style.
+# List each size available.
+# Christmas/Holiday sale is going on!
+# Calculate the stock available and prices for each style after markdowns are put in place.
+# Running Styles will be 25% off.
+# Casual Styles will be 30% off.
+# If you have a credit card with the store, you get 5% off your total purchase.
+# If you buy 2 or more pairs, you receive $10.00 off your total purchase.
+
+Free Run : 17, $75
+UltraBoost : 4, $150
+Asics Gel Lyte : 1, $120
+Vans Old Skool : 11, $60
+Air Max 1 : 7, $100
+Roshes : 25, $70
